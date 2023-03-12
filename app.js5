@@ -1,0 +1,161 @@
+var num="3"
+var num="5"
+var totalnum="8"
+
+document.write(" the result of 3+5=8")
+
+
+var num="3"
+var num="2"
+var totalnum="1"
+
+document.write(" the result of 3+2=1")
+
+
+var num="3"
+var num="3"
+var totalnum="1"
+
+document.write(" the result of 3/3=1")
+
+
+var num=5;
+document.write(num+1)
+
+
+ var newnum=6;
+document.write(newnum+7)
+
+ var Num=13;
+ document.write(Num-1)
+
+ var Mynum=12;
+ document.write(Mynum/3)
+
+
+var ticket=600;
+document.write(ticket*5)
+
+document.write("Total cost to buy 5 tickets to a movie is 3000PKR")
+
+ for(var i=1 ; i <=10; i++){
+    document.write("2" + "x" + i + "=" + 2*i +"<br>" )
+}
+
+
+ for(var i=1; i<=10; i++){
+    document.write("2" +"x" +i +"=" +2*i +"<br>")
+}
+
+
+//fahrenheit to celsius
+
+var F=prompt("Enter temp in fahrenheit")
+var C=(F-32)*5/9
+alert("temp in celsius" +C);
+
+document.write("temp in celsius" +C);
+
+
+//celsius to fahrenheit
+
+
+var C=prompt("Enter temp in celsius")
+var F=(C*9/5)+32
+alert("temp in fahrenheit"+F);
+document.write("temp in fahrenheit" +F);
+
+
+var price1="600"
+document.write("price of item one is 650")
+
+document.write("<br>")
+
+
+
+var quantity1="3"
+document.write("quantity of item 1 is 3")
+document.write("<br>")
+
+
+var price2="300"
+document.write("price of item one is 300")
+document.write("<br>")
+
+var quantity1="4"
+document.write("quantity of item 1 is 4")
+document.write("<br>")
+
+var shipping=100
+document.write("shipping charges 100")
+document.write("<br>")
+
+var total =1000
+document.write("total bill is 1000rs")
+
+
+
+var totalmarks=500;
+
+document.write("total marks=500")
+
+document.write("<br>")
+
+var obtained=300;
+document.write("marks obtained300")
+ document.write("<br>")
+
+
+// var percentage="60%"
+
+document.write("<br>")
+//document.write(300/totalmarks*100)
+document.write("percentage is 60%")
+
+
+
+var dollar=104.80
+var Riyal=28
+document.write("total currency in PKR" ,(dollar*10)+(Riyal*25));
+
+
+var num=2
+document.write(num+5)
+
+document.write("<br>")
+var newnum=7
+document.write(newnum*10)
+document.write("<br>")
+
+var newNum=70
+document.write(newNum/2)
+
+
+var birthyear=prompt("enter your birthyear");
+var currentyear=prompt("enter current year")
+document.write("your age is :" + (birthyear-currentyear))
+
+
+var radius=20;
+var pi=3.142;
+document.write("the circumference of circle is :" +2* pi* radius + "<br>");
+document.write("the area of circle is:",pi*radius*radius)
+
+
+var favouritesnack="chips"
+document.write(" favouritesnack=chips")
+document.write("<br>")
+var currentAge="15"
+document.write(" currentAge=15")
+document.write("<br>")
+var maxAge="65"
+document.write("maxAge=65")
+document.write("<br>")
+var chipsAmount=3
+document.write("Amount of snacks perday 3")
+document.write("<br>")
+
+var totalSupply=(chipsAmount*365)*(maxAge-currentAge)
+document.write("you will need 54750 packets of chips")
+
+

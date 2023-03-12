@@ -1,0 +1,47 @@
+alert("Hello! on your Ecommerce Website")
+
+alert("Error! Please enter a valid password ")
+
+
+alert("welcome to js land... \n Happy coding!")
+
+alert("welcome to js land...")
+
+
+
+alert("Happy coding \n  prevent this page from creating additional dialogs")
+
+let blue=document.getElementById("blue")
+blue.checked=true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

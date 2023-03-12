@@ -1,0 +1,15 @@
+
+ var age="19"
+ alert("I am 19 years old")
+
+ var num="20"
+ alert("You have visited on this page 20 times")
+
+ var birthyear="2003"
+ document.write("My birth year is 2003")
+
+ var name="Javeriya"
+ var title="5 t-shirts"
+ var store="XYZ Clothing Store"
+
+ document.write("Javeriya ordered 5 t-shirts on XYZ Clothing Store ")

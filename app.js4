@@ -1,0 +1,34 @@
+  <h1>
+        lagal and illegal variables names
+    </h1>
+
+    <p>
+       <h3>5 legal var names</h3> <br>
+        letters, digits , underscore , dollar $ sign ,number
+    </p>
+
+    <p>
+        <h4>
+            5 illegal var names
+            <br>
+
+          
+        </h4>
+
+        if , else, const, let, array
+    </p>
+
+    <h1>
+        Fill in the blanks of chp 4
+    </h1>
+    
+    <p>
+        1. nmbers , dollar $ sign , underscore_
+        <br>
+        2. letter , $ dollar sign , underscore_
+        <br>
+        3. sensitive
+        <br>
+        4. keywords
+    </p>
+     

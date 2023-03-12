@@ -1,0 +1,36 @@
+var username="Javeriya"
+alert("welcome Javeriya")
+
+var myName="Javeriya Khan"
+alert("Javeriya Khan")
+
+var message="Hello World"
+alert("Hello World")
+var name="Javeriya"
+alert("javeriya khan")
+
+var age="20"
+alert("19 years")
+
+var work="Certified mobile Application development"
+alert("Certified mobile Application development")
+
+
+var name="p,pi,piz,pizz,pizza"
+alert("pizza\npizz\npiz\npi\np")
+
+
+var email="abc@gmail.com"
+alert("My Email address is abc@gmail.com")
+
+var book="A smarter way to learn javascript"
+alert("I am trying to learn from the book A smarter way to learn javascript ")
+
+document.write("yah! I can write content through javascript")
+
+
+var name="▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬"
+
+document.write("▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬")
+
+alert("▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬")
